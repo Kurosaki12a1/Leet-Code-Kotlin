@@ -1,4 +1,4 @@
-package exercises
+package exercises.array
 
 import java.util.Stack
 

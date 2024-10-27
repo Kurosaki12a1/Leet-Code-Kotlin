@@ -1,4 +1,4 @@
-package exercises
+package exercises.array
 
 class RemoveDuplicates {
     val arr = intArrayOf(0, 0, 1, 1, 1, 1, 2, 3, 3)

@@ -1,4 +1,4 @@
-package exercises
+package exercises.string
 
 class LongestSubStringWithoutRepeat {
     companion object {

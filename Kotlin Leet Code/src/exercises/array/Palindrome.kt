@@ -1,4 +1,4 @@
-package exercises
+package exercises.array
 
 class Palindrome {
     fun isPalindrome(x : Int) : Boolean {
